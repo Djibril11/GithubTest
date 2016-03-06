@@ -21,6 +21,15 @@ namespace GithubTest
             int result = num1 + num2;
 
             Console.WriteLine("The answer is {0}", result);
+            
+            
+            bool mother = false;
+            bool fucked = true;
+            if (mother!= fucked)
+            {
+                mother = fucked
+            }
+            
 
             Console.ReadKey();
         }
