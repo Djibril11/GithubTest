@@ -18,6 +18,9 @@ namespace GithubTest
             Console.WriteLine("choose second number");
             int num2 = int.Parse(Console.ReadLine());
 
+            //My comments
+            //Todos
+
             int result = num1 + num2;
 
             Console.WriteLine("The answer is {0}", result);
